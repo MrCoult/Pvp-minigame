@@ -1,0 +1,20 @@
+C:\Users\MrCoult\source\repos\ConsoleApp14\ConsoleApp14\bin\Debug\ConsoleApp14.exe.config
+C:\Users\MrCoult\source\repos\ConsoleApp14\ConsoleApp14\bin\Debug\ConsoleApp14.exe
+C:\Users\MrCoult\source\repos\ConsoleApp14\ConsoleApp14\bin\Debug\ConsoleApp14.pdb
+C:\Users\MrCoult\source\repos\ConsoleApp14\ConsoleApp14\obj\Debug\ConsoleApp14.csprojAssemblyReference.cache
+C:\Users\MrCoult\source\repos\ConsoleApp14\ConsoleApp14\obj\Debug\ConsoleApp14.csproj.CoreCompileInputs.cache
+C:\Users\MrCoult\source\repos\ConsoleApp14\ConsoleApp14\obj\Debug\ConsoleApp14.exe
+C:\Users\MrCoult\source\repos\ConsoleApp14\ConsoleApp14\obj\Debug\ConsoleApp14.pdb
+C:\Users\Utilizator\Desktop\ConsoleApp14\ConsoleApp14\bin\Debug\ConsoleApp14.exe.config
+C:\Users\Utilizator\Desktop\ConsoleApp14\ConsoleApp14\obj\Debug\ConsoleApp14.exe
+C:\Users\Utilizator\Desktop\ConsoleApp14\ConsoleApp14\obj\Debug\ConsoleApp14.pdb
+C:\Users\Utilizator\Desktop\ConsoleApp14\ConsoleApp14\bin\Debug\ConsoleApp14.exe
+C:\Users\Utilizator\Desktop\ConsoleApp14\ConsoleApp14\bin\Debug\ConsoleApp14.pdb
+C:\Users\Utilizator\Desktop\ConsoleApp14\ConsoleApp14\obj\Debug\ConsoleApp14.csprojResolveAssemblyReference.cache
+C:\Users\MrCoult\Desktop\Teme\fac\Arsene Florin-Ionut\ConsoleApp14\bin\Debug\ConsoleApp14.exe.config
+C:\Users\MrCoult\Desktop\Teme\fac\Arsene Florin-Ionut\ConsoleApp14\bin\Debug\ConsoleApp14.exe
+C:\Users\MrCoult\Desktop\Teme\fac\Arsene Florin-Ionut\ConsoleApp14\bin\Debug\ConsoleApp14.pdb
+C:\Users\MrCoult\Desktop\Teme\fac\Arsene Florin-Ionut\ConsoleApp14\obj\Debug\ConsoleApp14.csprojAssemblyReference.cache
+C:\Users\MrCoult\Desktop\Teme\fac\Arsene Florin-Ionut\ConsoleApp14\obj\Debug\ConsoleApp14.csproj.CoreCompileInputs.cache
+C:\Users\MrCoult\Desktop\Teme\fac\Arsene Florin-Ionut\ConsoleApp14\obj\Debug\ConsoleApp14.exe
+C:\Users\MrCoult\Desktop\Teme\fac\Arsene Florin-Ionut\ConsoleApp14\obj\Debug\ConsoleApp14.pdb
